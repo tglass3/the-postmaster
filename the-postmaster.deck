@@ -1,0 +1,565 @@
+{deck}
+version:1
+card:0
+size:[512,342]
+name:"decker-game.deck"
+
+{card:Cover}
+image:"%%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"
+
+{card:home}
+{widgets}
+field1:{"type":"field","size":[288,78],"pos":[122,130],"border":0,"scrollbar":0,"align":"center","value":"Your name is Angelia, and you are an up-and-coming delivery goddess studying under your father, the great Hermes.\n\nToday is your final assignment to determine whether or not you graduate from intern to postmaster and earn your winged sandals. As the rooster crow outside, you ready yourself to meet Hermes in his office."}
+button1:{"type":"button","size":[60,20],"pos":[237,225],"script":"home.0","text":"Next"}
+
+{script:home.0}
+on click do
+  go["card1" "SlideLeft"]
+end
+{end}
+
+{card:card1}
+{widgets}
+field1:{"type":"field","size":[264,108],"pos":[129,118],"border":0,"align":"center","value":"You arrive at Hermes' office with little delay and make your way past the front desk to the cluttered back room. There are envelopes and messily wrapped packages littering the floor and spilling off shelves, and you can hear the faint sound of feathered wings.\n\n\"Grab a granola bar, you'll need your energy for today!\"\n\nYou don't feel particularly hungry yet, and the bland packaging doesn't make the snack look especially appealing."}
+button1:{"type":"button","size":[117,20],"pos":[194,239],"script":"card1.0","text":"Grab granola bar"}
+button2:{"type":"button","size":[73,20],"pos":[217,268],"script":"card1.1","text":"No thanks"}
+
+{script:card1.0}
+on click do
+  go["card2" "SlideLeft"]
+end
+{end}
+
+{script:card1.1}
+on click do
+  go["card4" "SlideLeft"]
+end
+{end}
+
+{card:card2}
+{widgets}
+field1:{"type":"field","size":[179,69],"pos":[174,141],"border":0,"align":"center","value":"You take the granola bar and shove it into your bag with a loud crinkle. Hermes seems pleased with you as he rounds the back corner. \n\n\"Well, let's get right to bussines!\""}
+button1:{"type":"button","size":[60,20],"pos":[231,223],"script":"card1.1","text":"Next"}
+
+{card:card4}
+{widgets}
+field1:{"type":"field","size":[240,66],"pos":[137,140],"border":0,"align":"center","value":"Hermes reaches down underneath his desk and, as if creating matter from nothing, lifts up a large box before dropping it on the desk's surface with a loud \"THUD!\"\n\nInside the box are three packages for you to deliver. "}
+button1:{"type":"button","size":[60,20],"pos":[227,217],"script":"card4.0","text":"Next"}
+
+{script:card4.0}
+on click do
+  go["card5" "SlideLeft"]
+end
+{end}
+
+{card:card5}
+{widgets}
+field1:{"type":"field","size":[172,44],"pos":[170,148],"border":0,"align":"center","value":"One package is wrapped in pond lily leaves and appears to be soaking wet. Upon picking it up, the package lets out a pleasant, high pitched squeal."}
+button1:{"type":"button","size":[69,20],"pos":[224,206],"script":"card5.0","text":"Put away"}
+
+{script:card5.0}
+on click do
+  go["card6" "SlideLeft"]
+end
+{end}
+
+{card:card6}
+{widgets}
+field1:{"type":"field","size":[237,72],"pos":[142,142],"border":0,"align":"center","value":"The next package is black as soot with the sharper edges than any mortal blacksmith has ever created. As you pick it up, you find that the package weighs 20 times what you were expecting. Luckily, your bag was crafted on Mount Olympus and will have no problem holding such a heavy object."}
+button1:{"type":"button","size":[68,20],"pos":[228,225],"script":"card6.0","text":"Put away"}
+
+{script:card6.0}
+on click do
+  go["card3" "SlideLeft"]
+end
+{end}
+
+{card:card3}
+{widgets}
+field1:{"type":"field","size":[257,96],"pos":[130,127],"border":0,"align":"center","value":"The final package shines like the brightest gemstone and glows with a million colors. \n\nYou are entranced by the way the light reflects from it's surface until, suddenly, you see that you are holding a twisting, swirling abyss in your own two hands. You start to feel a sense of dread but you struggle to pull your eyes away. In the next moment, your eyes are graced with the beautifully reflective package once again."}
+button1:{"type":"button","size":[67,20],"pos":[224,234],"script":"card3.0","text":"Put away"}
+
+{script:card3.0}
+on click do
+  go["card7" "SlideLeft"]
+end
+{end}
+
+{card:card7}
+{widgets}
+field1:{"type":"field","size":[214,83],"pos":[156,70],"border":0,"align":"center","value":"\"I'll be off then!\"\n\nYou stuff everything in your devliery bag and turn to leave. Hermes grunts in response to your farewell as he's already gone back to his stacks of overdue projects.\n\nNow where should you start?"}
+button1:{"type":"button","size":[60,20],"pos":[239,168],"script":"card7.0","text":"Home"}
+button2:{"type":"button","size":[60,20],"pos":[236,257],"text":"Athens"}
+button3:{"type":"button","size":[106,22],"pos":[214,287],"text":"Mount Olympus"}
+button4:{"type":"button","size":[60,20],"pos":[238,198],"text":"Ithaca"}
+button5:{"type":"button","size":[96,20],"pos":[218,227],"script":"card7.1","text":"Achelous River"}
+
+{script:card7.0}
+on click do
+  go["card8" "SlideLeft"]
+end
+{end}
+
+{script:card7.1}
+on click do
+  go["card11" "SlideLeft"]
+end
+{end}
+
+{card:card8}
+{widgets}
+field1:{"type":"field","size":[42,15],"pos":[12,30],"align":"center","value":"Home"}
+field2:{"type":"field","size":[182,59],"pos":[173,106],"border":0,"align":"center","value":"\"I feel like...I'm forgetting something.\"\n\nThe nagging feeling in the back of you mind is now too much - you have to go back home and look for...something!"}
+button1:{"type":"button","size":[116,20],"pos":[205,181],"script":"card8.0","text":"Check the dresser"}
+button2:{"type":"button","size":[135,20],"pos":[196,213],"script":"card8.1","text":"Check under the bed"}
+button3:{"type":"button","size":[147,20],"pos":[190,244],"script":"card8.2","text":"Check your coat pocket"}
+button4:{"type":"button","size":[60,20],"pos":[235,274],"script":"card8.3","text":"Head out"}
+
+{script:card8.0}
+on click do
+  go["card10" "SlideLeft"]
+end
+{end}
+
+{script:card8.1}
+on click do
+  go["card12" "SlideLeft"]
+end
+{end}
+
+{script:card8.2}
+on click do
+  go["card14" "SlideLeft"]
+end
+{end}
+
+{script:card8.3}
+on click do
+  go["card7" "SlideRight"]
+end
+{end}
+
+{card:card10}
+{widgets}
+field1:{"type":"field","size":[42,15],"pos":[12,30],"align":"center","value":"Home"}
+field2:{"type":"field","size":[196,37],"pos":[169,116],"border":0,"align":"center","value":"You open your dresser drawer.\n\n\"Nothing here, guess it was just a feeling.\""}
+button2:{"type":"button","size":[135,20],"pos":[198,181],"script":"card8.1","text":"Check under the bed"}
+button3:{"type":"button","size":[147,20],"pos":[192,212],"script":"card8.2","text":"Check your coat pocket"}
+button1:{"type":"button","size":[60,20],"pos":[238,243],"script":"card8.3","text":"Head out"}
+
+{card:card12}
+{widgets}
+field1:{"type":"field","size":[42,15],"pos":[12,30],"align":"center","value":"Home"}
+field2:{"type":"field","size":[198,39],"pos":[164,126],"border":0,"align":"center","value":"You bend down and look under your bed.\n\n\"Nothing here, guess it was just a feeling.\""}
+button1:{"type":"button","size":[116,20],"pos":[205,181],"script":"card12.0","text":"Check the dresser"}
+button3:{"type":"button","size":[147,20],"pos":[191,216],"script":"card8.2","text":"Check your coat pocket"}
+button2:{"type":"button","size":[60,20],"pos":[234,249],"script":"card12.0","text":"Head out"}
+
+{script:card12.0}
+on click do
+  go["card8" "SlideRight"]
+end
+{end}
+
+{card:card14}
+{widgets}
+field1:{"type":"field","size":[42,15],"pos":[12,30],"align":"center","value":"Home"}
+field2:{"type":"field","size":[195,83],"pos":[171,102],"border":0,"align":"center","value":"You jam your hand into your coat pocket and rummage around before pulling out your Pan-brand headphones!\n\nNow you can listen to some sweet tunes while you work!\n\n*Acquired headphones*"}
+button1:{"type":"button","size":[116,20],"pos":[208,200],"script":"card14.0","text":"Check the dresser"}
+button2:{"type":"button","size":[135,20],"pos":[199,232],"script":"card14.1","text":"Check under the bed"}
+button3:{"type":"button","size":[60,20],"pos":[236,261],"script":"card8.3","text":"Head out"}
+
+{script:card14.0}
+on click do
+  go["card10" "SlideRight"]
+end
+{end}
+
+{script:card14.1}
+on click do
+  go["card12" "SlideRight"]
+end
+{end}
+
+{card:card11}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[227,56],"pos":[149,143],"border":0,"align":"center","value":"You arrive at the river, and the fresh air hits you immediately. You see the various shades of blue and green surround you and you immediately feel at ease as you walk through broken rays of sunshine. Before you are two paths."}
+button1:{"type":"button","size":[100,20],"pos":[214,212],"script":"card11.0","text":"Follow the river"}
+button2:{"type":"button","size":[111,20],"pos":[208,245],"script":"card11.1","text":"Follow the singing"}
+
+{script:card11.0}
+on click do
+  go["card13" "SlideLeft"]
+end
+{end}
+
+{script:card11.1}
+on click do
+  go["card19" "SlideLeft"]
+end
+{end}
+
+{card:card13}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[235,94],"pos":[141,126],"border":0,"align":"center","value":"You run into Achelous, the father of the river nymhs. He can't sign for their package, but he might know where they are!\n\nYou hear a deep grumble as the 20-foot-tall mountain of a man looks at your sheepishly. \"Apologies, I haven't eaten today.\" Achelous appears to be very hungry, too hungry to focus on the conversation for much longer."}
+button1:{"type":"button","size":[110,20],"pos":[204,230],"script":"card13.0","text":"Offer granola bar"}
+button2:{"type":"button","size":[67,20],"pos":[223,261],"script":"card13.1","text":"Turn back"}
+
+{script:card13.0}
+on click do
+  go["card9" "SlideLeft"]
+end
+{end}
+
+{script:card13.1}
+on click do
+  go["card11" "SlideRight"]
+end
+{end}
+
+{card:card9}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[260,122],"pos":[128,111],"border":0,"align":"center","value":"You give Achelous your granola bar. Hermes always bugs you to keep your strength up on the job, but granola just isn't your thing.\n\nAchelous mumbles through his bites...\n\n\"They should be...*mmm*...through that...*crunch*...grove and past...*crinkle*...the rapids.\"\n\nYou thank him and scurry off.  It's not exactly pleasant listening to someone else's granola bar enjoyment."}
+button1:{"type":"button","size":[60,20],"pos":[230,243],"script":"card9.0","text":"Next"}
+
+{script:card9.0}
+on click do
+  go["card15" "SlideLeft"]
+end
+{end}
+
+{card:card15}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[232,84],"pos":[146,104],"border":0,"align":"center","value":"You follow Achelous' directions and find yourself at a peaceful waterfall hidden behind a curtain of willow branches. A group of young women giggle and gossip while braiding each others' water-like hair without a care in the world.\n\nNo one seems to notice your presence."}
+button1:{"type":"button","size":[135,20],"pos":[193,200],"script":"card15.0","text":"Deliver wet package"}
+button2:{"type":"button","size":[142,20],"pos":[189,231],"script":"card15.1","text":"Deliver heavy package"}
+button3:{"type":"button","size":[152,20],"pos":[184,261],"script":"card15.2","text":"Deliver strange package"}
+
+{script:card15.0}
+on click do
+  go["card16" "SlideLeft"]
+end
+{end}
+
+{script:card15.1}
+on click do
+  go["card17" "SlideLeft"]
+end
+{end}
+
+{script:card15.2}
+on click do
+  go["card18" "SlideLeft"]
+end
+{end}
+
+{card:card16}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[229,114],"pos":[140,101],"border":0,"align":"center","value":"As you pull the dripping package out of your bag, a high pitch purr fills the air. This attracts the young nymphs, who squeal in excitement.\n\nThey're so eager to receive their package that they quickly sign the release form and give you a few hollow sticks as a thank you gift.\n\nThis confuses you, but you appreciate the sentiment and put the sticks in your bag."}
+button1:{"type":"button","size":[83,20],"pos":[218,227],"script":"card8.3","text":"Put away"}
+
+{card:card17}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[204,60],"pos":[159,131],"border":0,"align":"center","value":"The nymphs don't seem to be aware of your attempts to ge ther attention. You leave the heavy package on the ground next to you.\n\n...It should be fine without a signature, right?"}
+button1:{"type":"button","size":[60,20],"pos":[233,202],"script":"card8.3","text":"Next"}
+
+{card:card18}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[253,94],"pos":[126,118],"border":0,"align":"center","value":"The sparkling of the package catches the eye of one of the nymphs, who waves you over. She tells you the package might be for Tyche, the goddess of randomness.\n\n\"No one ever really knows where Tyche is. Some mortals think they may have found a way to 'summon' her, but who really knows?\"\n\nYou put the package back in your bag and continue on."}
+button1:{"type":"button","size":[60,20],"pos":[222,224],"script":"card8.3","text":"Next"}
+
+{card:card19}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[189,64],"pos":[167,124],"border":0,"align":"center","value":"You follow the sweet singing for a bit before you remember: you're on the job!\n\nYou recall Hermes' vague warning of sirens near the river..."}
+button1:{"type":"button","size":[115,20],"pos":[201,199],"script":"card19.0","text":"Wear headphones"}
+button2:{"type":"button","size":[81,20],"pos":[215,230],"script":"card13.1","text":"Turn back"}
+
+{script:card19.0}
+on click do
+  go["card20" "SlideLeft"]
+end
+{end}
+
+{card:card20}
+{widgets}
+field1:{"type":"field","size":[73,16],"pos":[12,28],"align":"center","value":"Achelous River"}
+field2:{"type":"field","size":[233,67],"pos":[141,131],"border":0,"align":"center","value":"You slip your headphones on and continue down the path, your curiousity getting the better of you.\n\nThe sirens great you warmly, perhaps because you are not a lost sailor. After some pleasant, albeit loud, chit chat, the sirens gift you a song."}
+button1:{"type":"button","size":[71,20],"pos":[222,213],"script":"card8.3","text":"Put away"}
+
+{card:card21}
+{widgets}
+field1:{"type":"field","size":[40,16],"pos":[12,28],"align":"center","value":"Ithaca"}
+field2:{"type":"field","size":[261,37],"pos":[127,125],"border":0,"align":"center","value":"While looking for your delivery recipients, you stumble upon a frail, old man in a tattered cloak. You can't make out any of his features except the warm smile he offers you."}
+button1:{"type":"button","size":[75,20],"pos":[217,178],"script":"card21.0","text":"Give song"}
+button2:{"type":"button","size":[130,20],"pos":[190,207],"script":"card21.1","text":"Give Athena's feather"}
+button3:{"type":"button","size":[74,20],"pos":[218,236],"script":"card8.3","text":"Turn back"}
+
+{script:card21.0}
+on click do
+  go["card23" "SlideLeft"]
+end
+{end}
+
+{script:card21.1}
+on click do
+  go["card24" "SlideLeft"]
+end
+{end}
+
+{card:card23}
+{widgets}
+field1:{"type":"field","size":[40,16],"pos":[12,28],"align":"center","value":"Ithaca"}
+field2:{"type":"field","size":[225,47],"pos":[145,134],"border":0,"align":"center","value":"You give the man the siren's song, but he quickly flees before the sweet notes fill the air.\n\nWhat a strange man..."}
+button1:{"type":"button","size":[60,20],"pos":[226,193],"script":"card8.3","text":"Next"}
+
+{card:card24}
+{widgets}
+field1:{"type":"field","size":[40,16],"pos":[12,28],"align":"center","value":"Ithaca"}
+field2:{"type":"field","size":[202,71],"pos":[152,123],"border":0,"align":"center","value":"Upon seeing the feather, the decrepit man jumps up, feeling newly invigorated!\n\nYou can see his face clearly now, this is Odysseus! As a gesture of appreciation, he gives you a strange medallion."}
+button1:{"type":"button","size":[75,20],"pos":[215,207],"script":"card8.3","text":"Put away"}
+
+{card:card22}
+{widgets}
+field1:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+field2:{"type":"field","size":[224,75],"pos":[148,111],"border":0,"align":"center","value":"You arrive at the foot of an etherial staircase that leads up the largest, steepest mountain in sight and up into the clouds. Cerberus sits at the entrance to the stairs.\n\n\"Hades must be here for the quarterly meeting.\" You think to yourself."}
+button1:{"type":"button","size":[118,20],"pos":[202,199],"script":"card22.0","text":"Approach Cerberus"}
+button2:{"type":"button","size":[81,20],"pos":[222,229],"script":"card22.1","text":"Use the song"}
+
+{script:card22.0}
+on click do
+  go["card25" "SlideLeft"]
+end
+{end}
+
+{script:card22.1}
+on click do
+  go["card26" "SlideLeft"]
+end
+{end}
+
+{card:card25}
+{widgets}
+field1:{"type":"field","size":[185,58],"pos":[168,126],"border":0,"align":"center","value":"Being on duty, the monstrous dog lets out a deep growl, telling you to back off. \n\nYou feel a little hurt, considering how many belly rubs you've given Cerberus."}
+field2:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+button1:{"type":"button","size":[75,20],"pos":[224,195],"script":"card8.3","text":"Back away"}
+button2:{"type":"button","size":[82,20],"pos":[220,222],"script":"card22.1","text":"Use the song"}
+
+{card:card26}
+{widgets}
+field1:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+field2:{"type":"field","size":[268,87],"pos":[133,116],"border":0,"align":"center","value":"You pull the song from your back and a lulling melody fills the air, filling you with warmth and contentedness. You notice Cerberus' tense posture relax. It's his favorite song! What a good boy.\n\nBeyond the sleepy pup, you see a strange tree with a twisted tunk and leaves made of glass. There seems to be a shallow hole in the bark."}
+button1:{"type":"button","size":[95,20],"pos":[218,215],"script":"card26.0","text":"Place medallion"}
+button2:{"type":"button","size":[76,20],"pos":[228,243],"script":"card8.3","text":"Turn back"}
+
+{script:card26.0}
+on click do
+  go["card27" "SlideLeft"]
+end
+{end}
+
+{card:card27}
+{widgets}
+field1:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+field2:{"type":"field","size":[254,89],"pos":[137,104],"border":0,"align":"center","value":"The tree's glistening bark unfurls as the medallion slides back into the trunk, revealing a spiral staircase that descends down into Hephaestus' workshop.\n\nYou enter a warm room that glows with the red light of hot iron. A variety of weapons and armor cover the walls. Your eyes wander to the broad back of a burly man lost deep in thought while scribbling out a large blueprint."}
+button1:{"type":"button","size":[112,20],"pos":[207,203],"script":"card27.0","text":"Give wet package"}
+button2:{"type":"button","size":[122,20],"pos":[202,231],"script":"card27.1","text":"Give heavy package"}
+button3:{"type":"button","size":[134,20],"pos":[195,259],"script":"card27.2","text":"Give strange package"}
+
+{script:card27.0}
+on click do
+  go["card28" "SlideLeft"]
+end
+{end}
+
+{script:card27.1}
+on click do
+  go["card29" "SlideLeft"]
+end
+{end}
+
+{script:card27.2}
+on click do
+  go["card30" "SlideLeft"]
+end
+{end}
+
+{card:card28}
+{widgets}
+field1:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+field2:{"type":"field","size":[214,57],"pos":[154,126],"border":0,"align":"center","value":"You place the lily-wrapped package on a nearby counter, but the heat of the room causes the extra moisture in the package to evaporate.\n\nThat should be fine, right?"}
+button1:{"type":"button","size":[60,20],"pos":[229,195],"script":"card8.3","text":"Next"}
+
+{card:card29}
+{widgets}
+field1:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+field2:{"type":"field","size":[225,136],"pos":[150,78],"border":0,"align":"center","value":"Upon hearing the *clunk* of the package hitting the counter, Hepaestus turns around and gives a heartfelt smile.\n\n\"Angelia! How is your final assignment?\" He asks, tearing into his new delivery of raw bronze.\n\nYou make idle conversation with your most frequent customer before he hands you a glittering string of gold twine.\n\n\"Here, got it as a free sample but I'll never use it. Good luck today!\""}
+button1:{"type":"button","size":[60,20],"pos":[231,227],"script":"card8.3","text":"Next"}
+
+{card:card30}
+{widgets}
+field1:{"type":"field","size":[76,16],"pos":[12,28],"align":"center","value":"Mount Olympus"}
+field2:{"type":"field","size":[222,79],"pos":[154,112],"border":0,"align":"center","value":"Hephaestus turns around as you pull the strange package out of your bag, his attention caught by the array of reflections cast on the walls.\n\n\"Put that away!\" He bellows, shoving the parcel back into your bag. \"I don't need Tyche and her chaos interfering with my projects!\""}
+button1:{"type":"button","size":[60,20],"pos":[235,203],"script":"card8.3","text":"Next"}
+
+{card:card31}
+{widgets}
+field1:{"type":"field","size":[43,16],"pos":[12,28],"align":"center","value":"Athens"}
+field2:{"type":"field","size":[238,48],"pos":[139,127],"border":0,"scrollbar":0,"align":"center","value":"Ah, Athens. Such a bustling city of scholars and vendors alike! It can be hard to pick out individual conversation in the pack city streets, but the noise and excitement in the air is part of the city's charm."}
+button1:{"type":"button","size":[128,20],"pos":[191,186],"script":"card31.0","text":"Visit Athena's temple"}
+button2:{"type":"button","size":[86,20],"pos":[210,215],"script":"card31.1","text":"Take a stroll"}
+
+{script:card31.0}
+on click do
+  go["card32" "SlideLeft"]
+end
+{end}
+
+{script:card31.1}
+on click do
+  go["card36" "SlideLeft"]
+end
+{end}
+
+{card:card32}
+{widgets}
+field1:{"type":"field","size":[43,16],"pos":[12,28],"align":"center","value":"Athens"}
+field2:{"type":"field","size":[182,65],"pos":[170,125],"border":0,"align":"center","value":"You make your way to the temple and are immediately scooped up into a hug by your Auntie Athena.\n\n\"And how's my little Angie doing on her final assignment?\""}
+button1:{"type":"button","size":[119,20],"pos":[197,260],"script":"card32.0","text":"\"I need some help.\""}
+button2:{"type":"button","size":[184,20],"pos":[168,231],"script":"card32.1","text":"\"Have you heard from Tyche?\""}
+button3:{"type":"button","size":[111,20],"pos":[202,203],"script":"card32.2","text":"\"It's going great!\""}
+
+{script:card32.0}
+on click do
+  go["card33" "SlideLeft"]
+end
+{end}
+
+{script:card32.1}
+on click do
+  go["card34" "SlideLeft"]
+end
+{end}
+
+{script:card32.2}
+on click do
+  go["card35" "SlideLeft"]
+end
+{end}
+
+{card:card33}
+{widgets}
+field1:{"type":"field","size":[43,16],"pos":[12,28],"align":"center","value":"Athens"}
+field2:{"type":"field","size":[182,87],"pos":[171,115],"border":0,"align":"center","value":"\"Is that so? Here, this should help you. Use it wisely!\"\n\nAthena hands you a feather as long as your forearm that glimers with every color of the rainbow when the sun hits it just right. You thank Athena and bid her farewell."}
+button1:{"type":"button","size":[78,20],"pos":[224,215],"script":"card8.3","text":"Put away"}
+
+{card:card34}
+{widgets}
+field1:{"type":"field","size":[43,16],"pos":[12,28],"align":"center","value":"Athens"}
+field2:{"type":"field","size":[235,56],"pos":[142,132],"border":0,"align":"center","value":"\"Sorry, kiddo.\" Athena shakes her head. \"I have heard she just can't resist a good song, but I doubt she's at the ampitheatre. Wish I could be more helpful.\"\n\nYou thank Athena and bid her farewell."}
+button1:{"type":"button","size":[60,20],"pos":[229,199],"script":"card8.3","text":"Next"}
+
+{card:card35}
+{widgets}
+field1:{"type":"field","size":[43,16],"pos":[12,28],"align":"center","value":"Athens"}
+field2:{"type":"field","size":[181,56],"pos":[169,123],"border":0,"align":"center","value":"\"That's good to hear, keep it up!\"\n\nAthena smiles encouragingly before a group of priestesses drag her off to finish her temple duties."}
+button1:{"type":"button","size":[60,20],"pos":[227,188],"script":"card8.3","text":"Next"}
+
+{card:card36}
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[188,37],"pos":[163,143],"border":0,"align":"center","value":"A calm walk along the beach has you feeling nice and refreshed. You feel the sudden urge to express your happiness."}
+button1:{"type":"button","size":[110,20],"pos":[203,192],"script":"card36.0","text":"Use hollow sticks"}
+button2:{"type":"button","size":[109,20],"pos":[204,220],"script":"card36.1","text":"Use golden twine"}
+button3:{"type":"button","size":[101,20],"pos":[207,248],"script":"card36.2","text":"Hum to yourself"}
+
+{script:card36.0}
+on click do
+  go["card37" "SlideLeft"]
+end
+{end}
+
+{script:card36.1}
+on click do
+  go["card40" "SlideLeft"]
+end
+{end}
+
+{script:card36.2}
+on click do
+  go["card41" "SlideLeft"]
+end
+{end}
+
+{card:card37}
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[164,25],"pos":[174,147],"border":0,"align":"center","value":"You pull out the sticks, but you can't do much with them as they are."}
+button1:{"type":"button","size":[107,20],"pos":[204,181],"script":"card37.0","text":"Use golden twine"}
+button2:{"type":"button","size":[100,20],"pos":[207,209],"script":"card36.2","text":"Hum to yourself"}
+
+{script:card37.0}
+on click do
+  go["card38" "SlideLeft"]
+end
+{end}
+
+{card:card38}
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[233,86],"pos":[151,104],"border":0,"align":"center","value":"You tie the sticks together with the twine to make a pan flute! Hermes taught you to play a bit when you were younger, so you can only recall a single tune. \n\nYou bring the flute to your lips and start to play until a figure suddenly appears out of thin air.\n\n\"Ah, you must have my delivery.\""}
+button1:{"type":"button","size":[113,20],"pos":[207,200],"script":"card38.0","text":"Give wet package"}
+button2:{"type":"button","size":[127,20],"pos":[200,228],"script":"card38.0","text":"Give heavy package"}
+button3:{"type":"button","size":[136,20],"pos":[196,256],"script":"card38.1","text":"Give strange package"}
+
+{script:card38.0}
+on click do
+  go["card42" "SlideLeft"]
+end
+{end}
+
+{script:card38.1}
+on click do
+  go["card39" "SlideLeft"]
+end
+{end}
+
+{card:card39}
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[233,112],"pos":[148,104],"border":0,"align":"center","value":"You realize this must be Tyche! You greet her with your best behavior, going to far as to bow to her, before handing her the package.\n\nShe graciously accepts and gives you a small bag in return before disappearing once again. You reach inside the bag and pull out your very own pair of winged sandals!\n\nCongratulations, postmaster!"}
+button1:{"type":"button","size":[60,20],"pos":[231,226],"script":"card39.0","text":"End"}
+
+{script:card39.0}
+on click do
+  go["Cover" "BoxIn"]
+end
+{end}
+
+{card:card40}
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[162,26],"pos":[180,148],"border":0,"align":"center","value":"You pull out the twine, but you can't do anything with it in this state."}
+button1:{"type":"button","size":[114,20],"pos":[203,187],"script":"card37.0","text":"Use hollow sticks"}
+button2:{"type":"button","size":[107,20],"pos":[206,216],"script":"card36.2","text":"Hum to yourself"}
+
+{card:card41}
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[172,47],"pos":[175,138],"border":0,"align":"center","value":"You hum a light tune while listening to the waves crash against the shore.\n\nWelp, back to work!"}
+button1:{"type":"button","size":[60,20],"pos":[227,194],"script":"card8.3","text":"Next"}
+
+{card:card42}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDCAQMA/wD9AQUA/wD8AQUA/wD8AQUA/wD9AQMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AOA="
+{widgets}
+field1:{"type":"field","size":[70,16],"pos":[12,28],"align":"center","value":"Athens Coast"}
+field2:{"type":"field","size":[210,76],"pos":[156,131],"border":0,"align":"center","value":"You start to pull the package out of your bag before it hits you:\n\nYou delivered the wrong packages!\n\nHermes will never let you live this down. Oh well, there's always next century to try again!"}
+button1:{"type":"button","size":[60,20],"pos":[230,215],"script":"card39.0","text":"End"}
+
